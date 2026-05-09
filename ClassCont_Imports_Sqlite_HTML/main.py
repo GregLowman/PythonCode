@@ -1,0 +1,6 @@
+"""Demonstrates print() keyword arguments: sep and end."""
+a = 3
+b = "tim"
+c = 1, 2, 3
+
+print(a, b, c, sep="\n", end=".")
